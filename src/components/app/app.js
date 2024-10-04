@@ -12,17 +12,20 @@ function App() {
     { name: 'Ivan',
       surname: 'Ivanov',
       salary: 1000,
-      increase: true
+      increase: true,
+      id: 1
     },
     { name: 'Alex',
       surname: 'Smith',
       salary: 2000,
-      increase: false
+      increase: false,
+      id: 2
     },
     { name: 'Andrey',
       surname: 'Semenov',
       salary: 2500,
-      increase: true
+      increase: false,
+      id: 3
     }
   ];
 
