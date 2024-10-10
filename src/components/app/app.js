@@ -33,6 +33,13 @@ class App extends Component {
           increase: false,
           rise: false,
           id: 3
+        },
+        { name: 'dfdf',
+          surname: 'dfdf',
+          salary: 2500,
+          increase: false,
+          rise: false,
+          id: 4
         }
       ],
       term: '',
