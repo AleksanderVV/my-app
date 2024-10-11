@@ -1,5 +1,5 @@
 
-import './employees-list-item.css';
+import './employees-list-item.scss';
 
 const EmployeesListItem = (props) => {
 
